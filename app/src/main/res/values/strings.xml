@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BlogApp</string>
+    <string name="post_title">Post Title</string>
+    <string name="post_description">Post Description</string>
+    <string name="post">Post</string>
+    <string name="action_settings">Settings</string>
+</resources>
