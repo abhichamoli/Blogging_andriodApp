@@ -2,4 +2,4 @@ A android blogging app in which user can signup and login. A user can post pictu
 a recycler view.
 Firebase is used at the backend.
 
-![register](https://github.com/abhichamoli/Blogging_andriodApp/blob/master/register.jpg)        ![upload](https://github.com/abhichamoli/Blogging_andriodApp/blob/master/upload.jpg)
+![register](https://github.com/abhichamoli/Blogging_andriodApp/blob/master/register.jpg)                      ![upload](https://github.com/abhichamoli/Blogging_andriodApp/blob/master/upload.jpg)
